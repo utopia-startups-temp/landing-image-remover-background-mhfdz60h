@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "image remover background",
+    "tone": "friendly"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "headline": "Remove Backgrounds Effortlessly",
+      "subheadline": "One-click AI magic for crystal-clear images.",
+      "cta": {
+        "label": "Get Started Now",
+        "href": "https://utopia.so/projects/2VdaKZqFvJ3j4uZw2hnK"
+      },
+      "id": "hero-1"
+    },
+    {
+      "type": "problem",
+      "headline": "Struggling with Cluttered Image Backgrounds?",
+      "bullets": [
+        "Time-consuming manual edits.",
+        "Inconsistent results with complex images.",
+        "Need for professional-quality visuals."
+      ],
+      "id": "problem-2"
+    },
+    {
+      "type": "solution",
+      "headline": "Effortless, AI-Powered Solution",
+      "bullets": [
+        "Instant background removal with a single click.",
+        "Perfect for professionals and hobbyists alike.",
+        "Seamless integration in your creative workflow."
+      ],
+      "id": "solution-3"
+    },
+    {
+      "type": "benefits",
+      "headline": "Why Choose Us?",
+      "items": [
+        {
+          "title": "AI Precision",
+          "description": "State-of-the-art AI ensures flawless background removal."
+        },
+        {
+          "title": "Time Saver",
+          "description": "Save hours with automatic, instant processing."
+        },
+        {
+          "title": "User-Friendly",
+          "description": "Simple, intuitive interface for hassle-free editing."
+        },
+        {
+          "title": "Versatile Use",
+          "description": "Ideal for e-commerce, marketing, and personal projects."
+        }
+      ],
+      "id": "benefits-4"
+    },
+    {
+      "type": "testimonials",
+      "headline": "Hear From Our Happy Users",
+      "testimonials": [
+        {
+          "quote": "Transformed my workflow! High-quality results with zero hassle.",
+          "name": "Alex T.",
+          "title": "Freelance Photographer"
+        },
+        {
+          "quote": "A game-changer for my online store. Product images look professional with minimal effort.",
+          "name": "Samantha R.",
+          "title": "E-commerce Entrepreneur"
+        }
+      ],
+      "id": "testimonials-5"
+    },
+    {
+      "type": "cta",
+      "headline": "Ready to Elevate Your Images?",
+      "subheadline": "Join our community of satisfied users today.",
+      "cta": {
+        "label": "Try It Free",
+        "href": "https://utopia.so/projects/2VdaKZqFvJ3j4uZw2hnK"
+      },
+      "id": "cta-6"
+    }
+  ],
+  "goal": "lead-collection"
+}
